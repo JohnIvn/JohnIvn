@@ -24,14 +24,18 @@
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnivn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnivn&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=johnivn&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnivn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-🌱 *"Learning never exhausts the mind, it only ignites it."* — Leonardo da Vinci
+🌱 *"Medium is Preminum"* — Master Oogway
