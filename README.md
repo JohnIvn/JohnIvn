@@ -1,47 +1,59 @@
 <h1 align="center">Hi 👋, I'm Jan Ivan</h1>
-<h3 align="center">Aspiring professional passionate about space and intelligent systems 🚀🤖</h3>
+<h3 align="center">🚀 Aspiring professional passionate about space and intelligent systems 🤖</h3>
 
 ---
 
-🌟 **About Me**
+## 🌟 About Me
 
-- 🔭 Currently working on **CubeSatelittle**, an arduino powered laser communication. 
+- 🔭 Currently working on **CubeSatellite** — an Arduino-powered laser communication project  
 - 🌱 Learning **Artificial Intelligence** & **Machine Learning**  
 - 📫 Reach me at: **janivantot@gmail.com**
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+## 🌐 Connect with Me
+
 <p align="left">
   <a href="https://instagram.com/janvanmon" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.leetcode.com/janivan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://twitter.com/caramel_jan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.youtube.com/c/@ivan-vy6ef" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=johnivn&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnivn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=johnivn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnivn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnivn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-🌱 *"Medium is Preminum"* — Master Oogway
+## 🧠 Currently Exploring
+- 🛰️ Satellite Communication
+- 🤖 AI & ML Algorithms
+- 💡 DIY Electronics & Arduino
+
+---
+
+## ✨ Quote
+> *"Medium is Preminum"* — Master Oogway 🐢
+
+---
