@@ -46,9 +46,9 @@
 ---
 
 ## 🧠 Currently Exploring
-- 🛰️ Satellite Communication
 - 🤖 AI & ML Algorithms
 - 💡 DIY Electronics & Arduino
+- 🛰️ Networking Communication
 
 ---
 
