@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently working on **CubeSatellite** — an Arduino-powered laser communication project  
+- 🔭 Currently working on **ProtoCubeSatellite** — an Arduino-powered laser communication project  
 - 🌱 Learning **Artificial Intelligence** & **Machine Learning**  
 - 📫 Reach me at: **janivantot@gmail.com**
 
