@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan Ivan</h1>
-<h3 align="center">🚀 Aspiring professional passionate about space and intelligent systems 🤖</h3>
+<h3 align="center"> Aspiring professional passionate about space and intelligent systems </h3>
 
 ---
 
