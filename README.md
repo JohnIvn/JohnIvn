@@ -50,15 +50,15 @@
 
 ---
 
+## ✨ Quote
+> *"Medium is Preminum"* — Master Oogway 🐢
+
+---
+
 ## 🧠 Currently Exploring
 - 🤖 AI & ML Algorithms
 - 💡 DIY Electronics & Arduino
 - 🛰️ Networking Communication
-
----
-
-## ✨ Quote
-> *"Medium is Preminum"* — Master Oogway 🐢
 
 ---
 
