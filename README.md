@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jan Ivan</h1>
-<h3 align="center"> Aspiring professional passionate about space and intelligent systems </h3>
+> <h3 align="center"> Aspiring professional passionate about space and intelligent systems </h3>
 
 ---
 
@@ -10,30 +10,6 @@
 - 📫 Reach me at: **janivantot@gmail.com**
 
 ---
-<!--
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://instagram.com/janvanmon" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
-  
-  <a href="https://www.leetcode.com/janivan" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a> 
-  
-  <a href="https://twitter.com/caramel_jan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  
-  <a href="https://www.youtube.com/c/@ivan-vy6ef" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
----
--->
 
 ## 📊 GitHub Stats
 
@@ -55,16 +31,19 @@
 
 ---
 
-## 🧠 Currently Exploring
-- 🤖 AI & ML Algorithms
-- 💡 DIY Electronics & Arduino
-- 🛰️ Networking Communication
+## 
+
+|  X  |  O  |  X  |
+|  O  |  X  |  O  |
+|  X  |     |  O  |
 
 ---
 
 ## In Progress
+```bash
 - Tapigo
 - Hoshizora
+```
 
 ---
 
