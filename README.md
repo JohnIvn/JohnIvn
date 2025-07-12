@@ -63,6 +63,8 @@
 ```bash
 - Tapigo
 - Hoshizora
+- CoffeePOS
+- RENihonGaku
 ```
 
 ---
