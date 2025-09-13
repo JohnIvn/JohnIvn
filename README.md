@@ -23,23 +23,31 @@
 ⠀⠀⠄⠁⡐⢈⠀⠀⠀⡀⠁⡲⢌⡓⢮⡱⣋⢧⡻⣼⡙⢊⠜⣠⢸⣿⣻⢾⡍⢿⣽⣛⢧⣛⣯⢾⣱⡿⣼⢯⣻⣼⢫⣯⢗⣯⠂⠀⠂⠈⠀⠠⠀⠀⠄⠀⠀⠄⠀⠐⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
 ⠠⠈⡀⠐⠀⠀⡀⠠⠐⠀⢰⡑⢎⡙⢦⢳⡝⣮⢳⡱⢌⢣⠚⠤⣘⡷⢯⣟⣿⣞⣱⣯⢾⡽⣞⡿⣯⢿⡽⣯⢷⢯⡷⣹⠞⡴⠃⠀⠀⠀⠁⠀⠀⡀⠠⠐⠀⠀⢀⠀⠐⠀⠈⢀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠈⠀⠀⠀
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hi+I'm+Jan+Ivan" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=never+gonna+give+you+up+never+gonna+let+you+down" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-<h1 align="center">Hi, I'm Jan Ivan</h1>
-<h3 align="center"> Aspiring professional passionate about space and intelligent systems </h3>
+## About Me
+
+- Currently working on projects
+- Learning a lot
+- Reach me at: **janivantot@gmail.com**
 
 ---
 
-## 🌟 About Me
-
-- 🔭 Currently working on projects
-- 🌱 Learning a lot
-- 📫 Reach me at: **janivantot@gmail.com**
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr>
@@ -54,7 +62,10 @@
 
 ---
 
-## 💻 Tech Stack
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Tech+Stack" alt="Typing SVG" />
+  </a>
 
 | Programming Languages | Databases | Frameworks | Hardware/IoT |
 |------------------------|-----------|------------|--------------|
@@ -69,11 +80,11 @@
 |  |  | ![NG-ZORRO](https://img.shields.io/badge/NG--ZORRO-1D71B8?logo=antdesign&logoColor=white) | |
 |  |  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | |
 |  |  | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | |
-
+</div>
 
 ---
 
-## ✨ Quote
+## Quote
 ```bash
 > *"Medium is Preminum"* — Master Oogway 🐢
 ```
@@ -81,6 +92,23 @@
 ---
 
 ## In Progress
-tba
+
+<div align="center">
+  <a href="https://github.com/JohnIvn/Hoshizora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnIvn&repo=Hoshizora&theme=radical" alt="Hoshizora Repo Card" />
+  </a>
+  <a href="https://github.com/JohnIvn/Tapigo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnIvn&repo=Tapigo&theme=radical" alt="Tapigo Repo Card" />
+  </a>
+    <a href="https://github.com/JohnIvn/AHS_AIMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnIvn&repo=AHS_AIMS&theme=radical" alt="AHS Repo Card" />
+  </a>
+</div>
 
 ---
+
+### 2025 Roadmap
+- [ ] Learn 
+---
+
+
