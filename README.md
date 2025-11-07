@@ -16,12 +16,24 @@
 </p>
 
 ---
-
 ## About Me
 
-- Currently working on projects
-- Learning a lot
-- Reach me at: **janivantot@gmail.com**
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="vertical-align: top; border: none; padding-right: 20px;">
+        <ul>
+          <li>Currently working on projects</li>
+          <li>Learning a lot</li>
+          <li>Reach me at: <strong>janivantot@gmail.com</strong></li>
+        </ul>
+      </td>
+      <td style="border: none;">
+        <img width="256" height="242" alt="miyu2" src="https://github.com/user-attachments/assets/58cab665-1836-4fce-b853-2a87b4819a27" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
