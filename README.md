@@ -19,21 +19,19 @@
 ## About Me
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td style="vertical-align: top; border: none; padding-right: 20px;">
-        <ul>
-          <li>Currently working on projects</li>
-          <li>Learning a lot</li>
-          <li>Reach me at: <strong>janivantot@gmail.com</strong></li>
-        </ul>
-      </td>
-      <td style="border: none;">
-        <img width="256" height="242" alt="miyu2" src="https://github.com/user-attachments/assets/58cab665-1836-4fce-b853-2a87b4819a27" />
-      </td>
-    </tr>
-  </table>
+  <img width="200" height="200" alt="profile"
+    src="https://github.com/user-attachments/assets/58cab665-1836-4fce-b853-2a87b4819a27"
+    align="right" style="border-radius: 10px; margin-left: -150px; vertical-align: middle;" />
+
+  <div style="display: inline-block; text-align: left; vertical-align: middle;">
+    <br/><br/>
+    <p><b>Currently working on projects</b></p>
+    <p><b>Learning a lot</b></p>
+    <p><b>Reach me at:</b> <strong>janivantot@gmail.com</strong></p>
+    <br/>
+  </div>
 </div>
+
 
 ---
 
@@ -99,6 +97,3 @@
 
 ### 2025 Roadmap
 - [ ] Learn 
----
-
-
