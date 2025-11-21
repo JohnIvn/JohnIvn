@@ -74,7 +74,7 @@
 
 ## Quote
 ```bash
-> *"Medium is Preminum"* — Master Oogway 🐢
+> "Medium is Premium"
 ```
 
 ---
