@@ -94,6 +94,3 @@
 </div>
 
 ---
-
-### 2025 Roadmap
-- [ ] Learn 
