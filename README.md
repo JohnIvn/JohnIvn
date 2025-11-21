@@ -92,5 +92,3 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnIvn&repo=AHS_AIMS&theme=radical" alt="AHS Repo Card" />
   </a>
 </div>
-
----
