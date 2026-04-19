@@ -78,17 +78,3 @@
 ```
 
 ---
-
-## In Progress
-
-<div align="center">
-  <a href="https://github.com/JohnIvn/Hoshizora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnIvn&repo=Hoshizora&theme=radical" alt="Hoshizora Repo Card" />
-  </a>
-  <a href="https://github.com/JohnIvn/Tapigo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnIvn&repo=Tapigo&theme=radical" alt="Tapigo Repo Card" />
-  </a>
-    <a href="https://github.com/JohnIvn/AHS_AIMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnIvn&repo=AHS_AIMS&theme=radical" alt="AHS Repo Card" />
-  </a>
-</div>
