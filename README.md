@@ -19,18 +19,22 @@
 ## About Me
 
 <div align="center">
-  <img width="200" height="200" alt="profile"
-    src="https://github.com/user-attachments/assets/58cab665-1836-4fce-b853-2a87b4819a27"
-    align="right" style="border-radius: 10px; margin-left: -150px; vertical-align: middle;" />
-
-  <div style="display: inline-block; text-align: left; vertical-align: middle;">
-    <br/><br/>
-    <p><b>Currently working on projects</b></p>
-    <p><b>Learning a lot</b></p>
-    <p><b>Reach me at:</b> <strong>janivantot@gmail.com</strong></p>
-    <br/>
-  </div>
+  <p align="center">
+    <a href="https://github.com/johnivn?tab=repositories">
+      <img src="https://img.shields.io/badge/PROJECTS-3498db?style=for-the-badge&logo=github&logoColor=white" height="40" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/LEARNING-2ecc71?style=for-the-badge&logo=readme&logoColor=white" height="40" />
+    </a>
+    <a href="mailto:janivantot@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-e74c3c?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/MORE-f1c40f?style=for-the-badge&logo=info&logoColor=white" height="40" />
+    </a>
+  </p>
 </div>
+
 
 
 ---
