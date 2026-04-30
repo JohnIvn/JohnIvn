@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<p align="center"><img width="1280" height="492" alt="miyu" src="https://github.com/user-attachments/assets/900f8582-1458-4ae0-b3cd-98328b33b90c" />
+<p align="center"><img width="1280" height="492" alt="miyu" src="https://github.com/user-attachments/assets/900f8582-1458-4ae0-b3cd-98328b33b90c" /> -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
